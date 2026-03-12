@@ -4,6 +4,7 @@
 ## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
 ## IconTexture: Interface\AddOns\FafnyirMedia\logo\AddonLogo
 ## Dependencies: UnhaltedUnitFrames
+## SavedVariables: FafnyirRestingDB
 ## Version: 1.0
 ## Notes: Shows Zzz when player is resting
 
