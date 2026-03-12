@@ -1,0 +1,10 @@
+## Interface: 120000, 120001
+## Title: |cFF0070DDFafnyir Resting|r
+## Author: Fafnyir
+## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
+## IconTexture: Interface\AddOns\FafnyirMedia\logo\AddonLogo
+## Dependencies: UnhaltedUnitFrames
+## Version: 1.0
+## Notes: Shows Zzz when player is resting
+
+FafnyirResting.lua
