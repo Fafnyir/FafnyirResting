@@ -1,8 +1,8 @@
 local MAX_LEVEL = 90
 
--- Wait for UUF_Player to exist
+-- Wait for Fafnyir_UF_Player to exist
 local function InitFafnyirResting()
-    local playerFrame = _G["UUF_Player"]
+    local playerFrame = _G["Fafnyir_UF_Player"]
     if not playerFrame then
         C_Timer.After(0.5, InitFafnyirResting) -- try again in 0.5s
         return
