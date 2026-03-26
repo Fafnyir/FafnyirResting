@@ -1,7 +1,7 @@
 ## Interface: 120000, 120001
-## Title: |cFF0070DDFafnyir Resting|r
+## Title: |cFF6600CCFafnyir Resting|r
 ## Author: Fafnyir
-## Category-enUS: |cFF0070DDFafnyirs|r |cFFFFFFFFHoard|r
+## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## IconTexture: Interface\AddOns\FafnyirMedia\logo\AddonLogo
 ## Dependencies: UnhaltedUnitFrames
 ## SavedVariables: FafnyirRestingDB
