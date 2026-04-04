@@ -5,8 +5,8 @@
 ## IconTexture: Interface\AddOns\FafnyirMedia\logo\AddonLogo
 ## Dependencies: UnhaltedUnitFrames
 ## SavedVariables: FafnyirRestingDB
-## Version: 1.0
+## Version: v1.0.2
 ## X-Wago-ID: rN4k7xGD
-## Notes: Shows Zzz when player is resting
+## Notes: Shows Zzz when player is resting on UUF
 
 FafnyirResting.lua
