@@ -6,6 +6,7 @@
 ## Dependencies: UnhaltedUnitFrames
 ## SavedVariables: FafnyirRestingDB
 ## Version: 1.0
+## X-Wago-ID: rN4k7xGD
 ## Notes: Shows Zzz when player is resting
 
 FafnyirResting.lua
